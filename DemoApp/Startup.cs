@@ -31,6 +31,7 @@ namespace DemoApp
             {
                 app.UseBrowserLink();
                 app.UseDeveloperExceptionPage();
+                app.UseDeveloperExceptionPage();
             }
             else
             {
